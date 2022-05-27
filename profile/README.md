@@ -17,4 +17,7 @@
 Here are our cryptowallets:
 
 - **USDT (TRC20)**: TRVmasDESoxuRVk7hemueuWfd4YF3211Ws
+- **USDT (BEP20)**: 0x35d579eA03cf8C4342aD91d7CB04a44D191Bd8C3
 - **BTC**: 3NUNFc2nw1LVwV4HVPNKtyhym3ev1khtKv
+- **LTC**: LLUdJw4Y3pA8evYDzcxf5ofLYHb5ZrLVxp
+- **TRX**: TRVmasDESoxuRVk7hemueuWfd4YF3211Ws
