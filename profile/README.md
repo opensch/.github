@@ -21,3 +21,4 @@ Here are our cryptowallets:
 - **BTC**: 3NUNFc2nw1LVwV4HVPNKtyhym3ev1khtKv
 - **LTC**: LLUdJw4Y3pA8evYDzcxf5ofLYHb5ZrLVxp
 - **TRX**: TRVmasDESoxuRVk7hemueuWfd4YF3211Ws
+- **DOGE**: DJ7nNSQpqtjvedwpi8rQHcvoBqGtdReLFm
