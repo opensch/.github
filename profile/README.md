@@ -9,7 +9,7 @@
     
 # What should be done:
 
-- [x] The [server-side software](https://github.com/opensch/core] - the Core. Currently in prototyping stage and **NOT** production ready.
+- [x] The [server-side software](https://github.com/opensch/core) - the Core. Currently in prototyping stage and **NOT** production ready.
 - [ ] The [admin panel](https://github.com/opensch/admin) for schools to setup their instance. WIP
 - [ ] The reference client app. WIP
 - [ ] openSchool API Documentation, where we detail all the functionality of openSchool, how data should be handled and the small details. WIP.
