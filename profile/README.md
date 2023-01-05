@@ -9,10 +9,12 @@
     
 # What should be done:
 
-- [x] The [server-side software](https://github.com/opensch/core) - the Core. **Release within one month!**
-- [ ] The [admin panel](https://github.com/opensch/admin) for schools to setup their instance. WIP
-- [x] The reference client app. **Release within one month!**
-- [ ] openSchool API Documentation, where we detail all the functionality of openSchool, how data should be handled and the small details. WIP.
+- [x] The [server-side software](https://github.com/opensch/core) - the Core. **Release soon!**
+- [ ] [Push server](https://github.com/opensch/push)
+- [ ] The [admin panel](https://github.com/opensch/admin) for schools to setup their instance.
+- [x] The client app. (https://openschool.cc/download)[Download]
+- [ ] Open source (https://github.com/opensch/app)[client app]. WIP
+- [ ] openSchool API Documentation, where we detail all the functionality of openSchool, how data should be handled and the small details.
 
 # Want to support us?
 Here are our cryptowallets:
