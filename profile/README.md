@@ -10,7 +10,7 @@
 # What should be done:
 
 - [x] The [server-side software](https://github.com/opensch/core) - the Core. **Release soon!**
-- [ ] [Push server](https://github.com/opensch/push)
+- [x] [Push server](https://github.com/opensch/push)
 - [ ] The [admin panel](https://github.com/opensch/admin) for schools to setup their instance.
 - [x] The client app. [Download](https://openschool.cc/download)
 - [ ] Open source [client app](https://github.com/opensch/app). WIP
